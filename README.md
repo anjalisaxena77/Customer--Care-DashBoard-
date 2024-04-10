@@ -1,21 +1,27 @@
-# Customer-Care-Dashboard
+# Customer-Case-Dashboard
 
-**Overview:**
+## Overview
 
-This project revolves around the development of a robust Power BI dashboard tailored to customer care management. The dashboard serves as a comprehensive tool for analyzing customer interactions, monitoring service performance, and enhancing overall customer satisfaction.
+This repository contains the Power BI dashboard created for Claire to reflect relevant Key Performance Indicators (KPIs) and metrics from the dataset provided. The dashboard is designed to provide insightful visualizations and analysis of important metrics related to customer satisfaction, call handling, and agent performance.
 
-**Purpose:**
+## Dashboard Components
 
-The primary objective of this dashboard is to empower organizations to effectively manage customer care operations by gaining actionable insights from data. It facilitates informed decision-making, identifies areas for improvement, and strengthens customer relationships.
+### 1. Overall Customer Satisfaction
+   - Visualizes overall customer satisfaction ratings over time.
+   - Provides insights into trends and patterns in customer satisfaction levels.
 
-**Key Features:**
+### 2. Calls Analysis
+   - Breaks down calls answered versus abandoned.
+   - Provides insights into call volume and service levels.
 
-**1)Customer Interaction Analysis:** Visualizes various aspects of customer interactions, including inquiries, complaints, feedback, and resolution times, to identify patterns and trends.
+### 3. Calls by Time
+   - Analyzes call volume by time of day or day of week.
+   - Helps identify peak call times and optimize resource allocation.
 
-**2)Service Performance Metrics:** Tracks key performance indicators (KPIs) related to customer care, such as response times, resolution rates, customer satisfaction scores, and agent productivity.
+### 4. Average Speed of Answer
+   - Displays the average time it takes for calls to be answered.
+   - Highlights efficiency in call handling and customer wait times.
 
-**3)Trend Identification:** Highlights emerging trends and recurring issues in customer inquiries or complaints, enabling proactive measures to address them promptly.
-
-**4)Agent Performance Evaluation:** Evaluate individual agent performance based on metrics like call handling time, customer ratings, and adherence to service protocols.
-
-**5)Client Engagement:** Demonstrates the effectiveness of customer care management by showcasing successful client engagements and positive outcomes.
+### 5. Agent Performance Quadrant
+   - Utilizes the quadrant chart to assess agents' performance based on average handle time (talk duration) and calls answered.
+   - Helps identify high-performing agents and areas for improvement.
